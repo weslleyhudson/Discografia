@@ -1,0 +1,517 @@
+TDiscografia
+v7
+r0
+t321406157.673530
+cCheck dependencies
+cProcessInfoPlistFile /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Info.plist Discografia-Info.plist
+cCompileXIB /Users/weslleyhudson/Documents/Discografia/Discografia/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Discografia.app/Discografia.sqlite Discografia.sqlite
+cCompileXIB /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.xib
+cCompileXIB /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.xib
+cProcessPCH /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch.gch Discografia_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/main.o /Users/weslleyhudson/Documents/Discografia/Discografia/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/DiscografiaAppDelegate.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Conexao.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Musicas.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/MusicasTableViewController.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/LetraViewController.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia normal i386
+cGenerateDSYMFile /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app.dSYM /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia
+cTouch /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.h
+c000000004D77E6AC0000000000000109
+t1299703468
+s265
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m
+c000000004D7800FE00000000000001B3
+t1299710206
+s435
+i"Conexao.h"
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Discografia.h
+c000000004D77E8C700000000000000E3
+t1299704007
+s227
+i<Foundation/Foundation.h>
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Discografia.m
+c000000004D77E8C700000000000000CE
+t1299704007
+s206
+i"Discografia.h"
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.h
+c000000004D77E5610000000000000156
+t1299703137
+s342
+i<UIKit/UIKit.h>
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m
+c000000004D77FD700000000000000B1F
+t1299709296
+s2847
+i"DiscografiaAppDelegate.h"
+i"MusicasTableViewController.h"
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.h
+c000000004D780B6E0000000000000175
+t1299712878
+s373
+i<UIKit/UIKit.h>
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.m
+c000000004D780BBB000000000000071C
+t1299712955
+s1820
+i"LetraViewController.h"
+i"Musicas.h"
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.xib
+c000000004D780BD400000000000048D7
+t1299712980
+s18647
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.h
+c000000004D77ECDC000000000000025C
+t1299705052
+s604
+i<Foundation/Foundation.h>
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m
+c000000004D78021400000000000009EB
+t1299710484
+s2539
+i"Musicas.h"
+i"Conexao.h"
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.h
+c000000004D77FAF5000000000000011E
+t1299708661
+s286
+i<UIKit/UIKit.h>
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m
+c000000004D780D4A0000000000001491
+t1299713354
+s5265
+i"MusicasTableViewController.h"
+i"Musicas.h"
+i"LetraViewController.h"
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.xib
+c000000004D77FDD80000000000004412
+t1299709400
+s17426
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Discografia.sqlite
+c000000004D7805BA0000000000003400
+t1299711418
+s13312
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/Discografia_Prefix.pch
+c000000004D77E56100000000000000BF
+t1299703137
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/MainWindow.xib
+c000000004D77E561000000000000211C
+t1299703137
+s8476
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app
+t1299713357
+s306
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app.dSYM
+t1299713357
+s102
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia
+t1299713357
+s27392
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia.sqlite
+t1299711431
+s13312
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Info.plist
+t1299705209
+s607
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/LetraViewController.nib
+t1299712983
+s1746
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/MainWindow.nib
+t1299705210
+s988
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/MusicasTableViewController.nib
+t1299710001
+s979
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/PkgInfo
+t1299705209
+s8
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Conexao.o
+t1299710259
+s7636
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Discografia.LinkFileList
+c000000004D78083800000000000003A9
+t1299712056
+s937
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Discografia.o
+t2
+s0
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/DiscografiaAppDelegate.o
+t1299709302
+s52856
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/LetraViewController.o
+t1299712956
+s42916
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Musicas.o
+t1299710841
+s15036
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/MusicasTableViewController.o
+t1299713357
+s46184
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/main.o
+t1299705210
+s6336
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/Conexao.plist
+t1299710115
+s276
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/DiscografiaAppDelegate.plist
+t1299710115
+s10124
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/Musicas.plist
+t1299710115
+s53842
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/MusicasTableViewController.plist
+t1299710115
+s276
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/main.plist
+t1299710115
+s276
+
+N/Users/weslleyhudson/Documents/Discografia/Discografia/main.m
+c000000004D77E5610000000000000170
+t1299703137
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch.gch
+t1299705210
+s15453392
+
+N/var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch.pth
+t1299710115
+s2784076
+
+NDiscografia-Info.plist
+c000000004D77E561000000000000038D
+t1299703137
+s909
+
+CAnalyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m
+s321402915.890192
+e321402915.931504
+r1
+xAnalyze
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m
+lSLF07#2@80"Analyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m321402915#321402915#0(0"0(0#0#72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m8615630240#2193"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch --analyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/Conexao.plist0#
+
+CAnalyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m
+s321402915.869981
+e321402915.910822
+r1
+xAnalyze
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m:25:40: warning: Potential leak of an object allocated on line 25 and stored into 'musicas'
+o         MusicasTableViewController *musicas = [[MusicasTableViewController alloc] initWithStyle:UITableViewStylePlain];
+o                                               ^
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m:27:45: warning: Potential leak of an object allocated on line 27 and stored into 'barraDeNavegacao'
+o         UINavigationController *barraDeNavegacao = [[UINavigationController alloc] initWithRootViewController:musicas];
+o                                                    ^
+o2 warnings generated.
+lSLF07#2@95"Analyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402915#321402915#0(734"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m:25:40: warning: Potential leak of an object allocated on line 25 and stored into 'musicas'         MusicasTableViewController *musicas = [[MusicasTableViewController alloc] initWithStyle:UITableViewStylePlain];                                               ^/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m:27:45: warning: Potential leak of an object allocated on line 27 and stored into 'barraDeNavegacao'         UINavigationController *barraDeNavegacao = [[UINavigationController alloc] initWithRootViewController:musicas];                                                    ^2 warnings generated.2(0@74"Potential leak of an object allocated on line 25 and stored into 'musicas'321402915#18446744073709551615#0#4(17@0"321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#0"0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#1(3@6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#25#2#25#2#6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#25#40#25#111#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#25#40#0#0#0"1(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#25#40#25#111#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#0"0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#1(3@6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#25#40#25#111#6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#29#5#29#5#21@139"Object allocated on line 25 and stored into 'musicas' is no longer referenced after this point and has a retain count of +1 (object leaked)321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#29#5#0#0#0"1(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#29#5#29#5#139"Object allocated on line 25 and stored into 'musicas' is no longer referenced after this point and has a retain count of +1 (object leaked)6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#29#5#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@83"Potential leak of an object allocated on line 27 and stored into 'barraDeNavegacao'321402915#18446744073709551615#0#5(17@0"321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#0"0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#1(3@6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#25#2#25#2#6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#27#2#27#2#17@0"321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#0"0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#1(3@6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#27#2#27#2#6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#27#45#27#111#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#27#45#0#0#0"1(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#27#45#27#111#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#0"0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#0#0#0#0#1(3@6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#27#45#27#111#6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#30#5#30#5#21@148"Object allocated on line 27 and stored into 'barraDeNavegacao' is no longer referenced after this point and has a retain count of +1 (object leaked)321402915#18446744073709551615#0#0(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#30#5#0#0#0"1(6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#30#5#30#5#148"Object allocated on line 27 and stored into 'barraDeNavegacao' is no longer referenced after this point and has a retain count of +1 (object leaked)6@87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402096#30#5#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m8616336064#2223"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch --analyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/DiscografiaAppDelegate.plist0#
+
+CAnalyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m
+s321402915.911057
+e321402915.972596
+r1
+xAnalyze
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m:25:33: warning: Potential leak of an object allocated on line 25 and stored into 'todasMusicas'
+o         NSMutableArray *todasMusicas = [[NSMutableArray alloc] init];
+o                                        ^
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m:39:11: warning: Potential leak of an object allocated on line 39 and stored into 'mus'
+o                                 mus = [[Musicas alloc] init];
+o                                       ^
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m:82:23: warning: Potential leak of an object allocated on line 82 and stored into 'musicaEscolhida'
+o                                 musicaEscolhida = [[Musicas alloc] init];
+o                                                   ^
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m:82:23: warning: Potential leak of an object allocated on line 82 and stored into 'musicaEscolhida'
+o4 warnings generated.
+lSLF07#2@80"Analyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321402915#321402915#0(1040"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m:25:33: warning: Potential leak of an object allocated on line 25 and stored into 'todasMusicas'         NSMutableArray *todasMusicas = [[NSMutableArray alloc] init];                                        ^/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m:39:11: warning: Potential leak of an object allocated on line 39 and stored into 'mus'                                 mus = [[Musicas alloc] init];                                       ^/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m:82:23: warning: Potential leak of an object allocated on line 82 and stored into 'musicaEscolhida'                                 musicaEscolhida = [[Musicas alloc] init];                                                   ^/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m:82:23: warning: Potential leak of an object allocated on line 82 and stored into 'musicaEscolhida'4 warnings generated.4(0@70"Potential leak of an object allocated on line 39 and stored into 'mus'321402915#18446744073709551615#0#14(17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#21#2#21#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#27#2#27#2#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#27#2#27#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#28#3#28#3#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#28#3#28#3#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#31#3#31#3#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#31#3#31#3#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#32#4#32#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#32#4#32#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#4#34#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#4#34#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#36#5#36#5#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#36#5#36#5#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#39#5#39#5#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#39#5#39#5#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#39#11#39#32#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#39#11#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#39#11#39#32#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#39#11#39#32#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#46#4#46#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#46#4#46#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#4#34#8#21@36"Looping back to the head of the loop321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#4#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#4#34#8#36"Looping back to the head of the loop17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#4#34#8#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#11#34#22#21@135"Object allocated on line 39 and stored into 'mus' is no longer referenced after this point and has a retain count of +1 (object leaked)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#11#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#11#34#22#135"Object allocated on line 39 and stored into 'mus' is no longer referenced after this point and has a retain count of +1 (object leaked)6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#34#11#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@79"Potential leak of an object allocated on line 25 and stored into 'todasMusicas'321402915#18446744073709551615#0#7(17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#21#2#21#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#25#2#25#2#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#25#2#25#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#25#33#25#61#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#25#33#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#25#33#25#61#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#25#33#25#61#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#27#2#27#2#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#27#2#27#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#53#2#53#7#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#53#2#0#0#0"2(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#53#2#53#20#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#53#9#53#20#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@286"Object allocated on line 25 and stored into 'todasMusicas' is returned from a method whose name ('getAllMusicas') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#53#2#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#53#2#53#7#286"Object allocated on line 25 and stored into 'todasMusicas' is returned from a method whose name ('getAllMusicas') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#53#2#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0@82"Potential leak of an object allocated on line 82 and stored into 'musicaEscolhida'321402915#18446744073709551615#0#15(17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#60#2#60#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#66#2#66#2#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#66#2#66#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#68#3#68#3#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#68#3#68#3#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#72#3#72#3#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#72#3#72#3#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#74#4#74#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#74#4#74#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#5#78#5#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#5#78#5#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#5#82#5#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#5#82#5#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#23#82#44#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#23#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#23#82#44#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#23#82#44#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#88#4#88#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#88#4#88#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#8#21@36"Looping back to the head of the loop321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#8#36"Looping back to the head of the loop17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#8#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#5#78#5#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#5#78#5#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#32#78#49#21@147"Object allocated on line 82 and stored into 'musicaEscolhida' is no longer referenced after this point and has a retain count of +1 (object leaked)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#32#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#32#78#49#147"Object allocated on line 82 and stored into 'musicaEscolhida' is no longer referenced after this point and has a retain count of +1 (object leaked)6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#32#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@82"Potential leak of an object allocated on line 82 and stored into 'musicaEscolhida'321402915#18446744073709551615#0#16(17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#60#2#60#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#66#2#66#2#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#66#2#66#2#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#68#3#68#3#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#68#3#68#3#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#72#3#72#3#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#72#3#72#3#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#74#4#74#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#74#4#74#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#5#78#5#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#78#5#78#5#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#5#82#5#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#5#82#5#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#23#82#44#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#23#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#23#82#44#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#82#23#82#44#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#88#4#88#4#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#88#4#88#4#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#8#21@36"Looping back to the head of the loop321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#8#36"Looping back to the head of the loop17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#76#4#76#8#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#91#3#91#3#17@0"321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#0"0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#0#0#0#0#1(3@6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#91#3#91#3#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#95#2#95#7#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#95#2#0#0#0"2(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#95#2#95#23#6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#95#9#95#23#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@299"Object allocated on line 82 and stored into 'musicaEscolhida' is returned from a method whose name ('getMusicasWithIdMusica:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)321402915#18446744073709551615#0#0(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#95#2#0#0#0"1(6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#95#2#95#7#299"Object allocated on line 82 and stored into 'musicaEscolhida' is returned from a method whose name ('getMusicasWithIdMusica:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321401153#95#2#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0#0#72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m8610293440#2193"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch --analyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/Musicas.plist0#
+
+CAnalyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m
+s321402915.931578
+e321402915.967909
+r1
+xAnalyze
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m
+lSLF07#2@99"Analyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m321402915#321402915#0(0"0(0#0#91"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m8619290592#2231"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch --analyze /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/MusicasTableViewController.plist0#
+
+CAnalyze /Users/weslleyhudson/Documents/Discografia/Discografia/main.m
+s321402915.847672
+e321402915.890123
+r1
+xAnalyze
+x/Users/weslleyhudson/Documents/Discografia/Discografia/main.m
+lSLF07#2@69"Analyze /Users/weslleyhudson/Documents/Discografia/Discografia/main.m321402915#321402915#0(0"0(0#0#61"/Users/weslleyhudson/Documents/Discografia/Discografia/main.m8617689984#2179"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch --analyze /Users/weslleyhudson/Documents/Discografia/Discografia/main.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321406157#321406157#0(0"0(0#1#0"8619759680#0"0#
+
+CCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Conexao.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321403059.702819
+e321403059.809900
+r1
+xCompileC
+xbuild/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Conexao.o
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m321403059#321403059#0(0"0(0#0#72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m8620100896#2184"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch -c /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Conexao.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Conexao.o0#
+
+CCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Discografia.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Discografia.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/DiscografiaAppDelegate.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321402101.930370
+e321402102.040798
+r1
+xCompileC
+xbuild/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/DiscografiaAppDelegate.o
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m321402101#321402102#0(0"0(0#0#87"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m8617569824#2214"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch -c /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/DiscografiaAppDelegate.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/DiscografiaAppDelegate.o0#
+
+CCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/LetraViewController.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321405756.038724
+e321405756.149955
+r1
+xCompileC
+xbuild/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/LetraViewController.o
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.m321405756#321405756#0(0"0(0#0#84"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.m8616443136#2208"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch -c /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/LetraViewController.o0#
+
+CCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Musicas.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321403641.838427
+e321403641.988923
+r1
+xCompileC
+xbuild/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Musicas.o
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m321403641#321403641#0(0"0(0#0#72"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m8617506016#2184"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch -c /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/Musicas.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Musicas.o0#
+
+CCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/MusicasTableViewController.o /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321406157.484920
+e321406157.614864
+r1
+xCompileC
+xbuild/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/MusicasTableViewController.o
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m: In function '-[MusicasTableViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m:156: warning: no '-initWithIdMusica:' method found
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m:156: warning: (Messages without a matching method signature
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m:156: warning: will be assumed to return 'id' and accept
+o/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m:156: warning: '...' as arguments.)
+lSLF07#2@99"Compile /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m321406157#321406157#0(743"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m: In function '-[MusicasTableViewController tableView:didSelectRowAtIndexPath:]':/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m:156: warning: no '-initWithIdMusica:' method found/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m:156: warning: (Messages without a matching method signature/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m:156: warning: will be assumed to return 'id' and accept/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m:156: warning: '...' as arguments.)2(22@36"No '-initWithIdMusica:' method found321406157#173#143#0(6@91"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m321406154#156#0#156#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)321406157#316#152#0(6@91"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m321406154#156#0#156#0#0"0(0#0#91"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m8622019840#2222"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch -c /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/MusicasTableViewController.o0#
+
+CCompileC build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/main.o /Users/weslleyhudson/Documents/Discografia/Discografia/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321398010.870337
+e321398010.917242
+r1
+xCompileC
+xbuild/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/main.o
+x/Users/weslleyhudson/Documents/Discografia/Discografia/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/weslleyhudson/Documents/Discografia/Discografia/main.m321398010#321398010#0(0"0(0#0#61"/Users/weslleyhudson/Documents/Discografia/Discografia/main.m8616515680#2170"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -include /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch -c /Users/weslleyhudson/Documents/Discografia/Discografia/main.m -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.xib
+s321405782.981666
+e321405783.338678
+r1
+xCompileXIB
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.xib
+lSLF07#2@42"CompileXIB Classes/LetraViewController.xib321405782#321405783#0(0"0(0#0#86"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.xib8616484864#648"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/LetraViewController.nib /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/LetraViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.xib
+s321402800.906005
+e321402801.232700
+r1
+xCompileXIB
+x/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.xib
+lSLF07#2@49"CompileXIB Classes/MusicasTableViewController.xib321402800#321402801#0(0"0(0#0#93"/Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.xib8617324960#662"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/MusicasTableViewController.nib /Users/weslleyhudson/Documents/Discografia/Discografia/Classes/MusicasTableViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/weslleyhudson/Documents/Discografia/Discografia/MainWindow.xib
+s321398009.988938
+e321398010.310910
+r1
+xCompileXIB
+x/Users/weslleyhudson/Documents/Discografia/Discografia/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321398009#321398010#0(0"0(0#0#69"/Users/weslleyhudson/Documents/Discografia/Discografia/MainWindow.xib30962724187078756#622"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/MainWindow.nib /Users/weslleyhudson/Documents/Discografia/Discografia/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Discografia.app/Discografia.sqlite Discografia.sqlite
+s321404231.410724
+e321404231.420218
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Discografia.app/Discografia.sqlite
+xDiscografia.sqlite
+lSLF07#2@23"Copy Discografia.sqlite321404231#321404231#0(0"0(0#0#73"/Users/weslleyhudson/Documents/Discografia/Discografia/Discografia.sqlite8619878400#528"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/weslleyhudson/Documents/Discografia/Discografia/Discografia.sqlite /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app0#
+
+CGenerateDSYMFile /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app.dSYM /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia
+s321406157.655056
+e321406157.671364
+r1
+xGenerateDSYMFile
+x/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app.dSYM
+x/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Discografia.app.dSYM build/Debug-iphonesimulator/Discografia.app/Discografia321406157#321406157#0(0"0(0#0#110"/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia8621471680#443"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app.dSYM0#
+
+CLd /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia normal i386
+s321406157.614935
+e321406157.654978
+r1
+xLd
+x/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia
+xnormal
+xi386
+lSLF07#2@115"Link /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia321406157#321406157#0(0"0(0#0#0"8619895680#1012"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -filelist /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Objects-normal/i386/Discografia.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Discografia0#
+
+CProcessInfoPlistFile /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Info.plist Discografia-Info.plist
+s321398009.983452
+e321398009.988864
+r1
+xProcessInfoPlistFile
+x/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Info.plist
+xDiscografia-Info.plist
+lSLF07#2@30"Process Discografia-Info.plist321398009#321398009#0(0"0(0#0#77"/Users/weslleyhudson/Documents/Discografia/Discografia/Discografia-Info.plist8616763040#539"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Discografia-Info.plist -genpkginfo /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app/Info.plist0#
+
+CProcessPCH /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch.gch Discografia_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321398010.311012
+e321398010.870258
+r1
+xProcessPCH
+x/var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch.gch
+xDiscografia_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Discografia_Prefix.pch321398010#321398010#0(0"0(0#0#77"/Users/weslleyhudson/Documents/Discografia/Discografia/Discografia_Prefix.pch8617289088#2042"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -c /Users/weslleyhudson/Documents/Discografia/Discografia/Discografia_Prefix.pch -o /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-dsknuccintglsjcdlypujsqacjiv/Discografia_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch.pth Discografia_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s321402915.592307
+e321402915.846548
+r1
+xProcessPCH
+x/var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch.pth
+xDiscografia_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@33"Precompile Discografia_Prefix.pch321402915#321402915#0(0"0(0#0#77"/Users/weslleyhudson/Documents/Discografia/Discografia/Discografia_Prefix.pch8615977408#2033"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-generated-files.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-own-target-headers.hmap -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-all-target-headers.hmap -iquote /Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/Discografia-project-headers.hmap -F/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/include -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources/i386 -I/Users/weslleyhudson/Documents/Discografia/Discografia/build/Discografia.build/Debug-iphonesimulator/Discografia.build/DerivedSources -c /Users/weslleyhudson/Documents/Discografia/Discografia/Discografia_Prefix.pch -o /var/folders/oM/oMRjiW4gFtCJBwb6mISoB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Discografia_Prefix-eaoviiivedlwaoenlppcoljysptl/Discografia_Prefix.pch.pth0#
+
+CTouch /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app
+s321406157.671464
+e321406157.673497
+r1
+xTouch
+x/Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app
+lSLF07#2@104"Touch /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app321406157#321406157#0(0"0(0#0#0"8617522112#314"    cd /Users/weslleyhudson/Documents/Discografia/Discografia    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/weslleyhudson/Documents/Discografia/Discografia/build/Debug-iphonesimulator/Discografia.app0#
+
